@@ -14,10 +14,10 @@ const compliments = [
 
 const images = [
   "/images/her.jpeg",
-  "/images/her2.jpeg",
-  "/images/her3.jpeg",
+  "/images/her 1.jpeg",
+  "/images/her 3.jpeg",
   "/images/her4.jpeg",
-  "/images/her5.jpeg",
+  "/images/her 2.jpeg",
 ];
 
 function Card({ text, image, open, onClick }) {
